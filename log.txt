@@ -1,0 +1,2 @@
+[TS273367]-Mariveles{fare}PHP86{cash}PHP200{change}PHP114
+[TS104454]-Orani{fare}PHP75{cash}PHP324{change}PHP249
